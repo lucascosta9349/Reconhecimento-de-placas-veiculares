@@ -1,0 +1,17 @@
+Referências
+- Gonzalez, R. C., & Woods, R. E. (2018). Digital Image Processing (4ª ed.). Pearson.
+- Cabral, F. A., & Machado, V. H. P. (2014). Identificador de placa veicular: alternativa para segurança em escolas. Universidade Tecnológica Federal do Paraná.
+- Sauvola, J., & Pietikäinen, M. (2000). Adaptive document image binarization. Pattern Recognition, 33(2), 225–236.
+- Filho, O. M., & Neto, H. V. (1999). Processamento digital de imagens. Brasport.
+- Jain, A. K. (1989). Fundamentals of digital image processing. Prentice-Hall, Inc.
+- Oliphant, T. E. (2007). Python for scientific computing. Computing in Science & Engineering, 9(3), 10–20.
+- Bernardi, E. (2014). Os sistemas de identificação veicular, em especial o reconhecimento automático de placas. Tese de Doutorado, Universidade de São Paulo.
+- CULJAK, I. et al. A brief introduction to opencv. In: IEEE. 2012 proceedings of the 35th
+  international convention MIPRO. [S.l.], 2012. p. 1725–1730.
+- Szeliski, R. (2010). Computer Vision: Algorithms and Applications. Springer.
+- Shapiro, L. G., & Stockman, G. C. (2001). Computer Vision. Prentice Hall.
+- Smith, R. (2007). An Overview of the Tesseract OCR Engine. In Proceedings of the Ninth International Conference on Document Analysis and Recognition (Vol. 2, pp. 629-633). IEEE.
+
+
+
+
