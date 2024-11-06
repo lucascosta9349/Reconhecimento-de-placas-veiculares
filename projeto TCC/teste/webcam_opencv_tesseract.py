@@ -5,6 +5,8 @@ import os
 import numpy as np
 import mysql.connector
 
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+
 def verificar_placa_no_banco(placa):
     try:
         # Conecta ao banco de dados
